@@ -29,7 +29,7 @@ def get_download_link(vm_page_link):
     return None
 
 def download_file(url, output_dir):
-    cmd = ["wget", "-P", output_dir, url]
+    cmd = ["wget", "-nc", "-P", output_dir, url]
     subprocess.run(cmd)
 
 def main():
