@@ -1,6 +1,35 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+'''
+@Filename : timeline_to_json.py
+@CreatedTime : 2023/09/26 21:06
+
+
+This program has a function to __summary__
+
+'''
+
+
+############################################################################
+# Import modules
+############################################################################
+
 import requests
 from bs4 import BeautifulSoup
 import json
+
+############################################################################
+
+__author__ = 'masjohncook'
+__copyright__ = '(C)Copyright 2023'
+__credits__ = []
+__license__ = 'None'
+__version__ = '0.0.1'
+__maintainer__ = 'masjohncook'
+__email__ = 'mas.john.cook@gmail.com'
+__status__ = 'None'
+
+############################################################################
 
 BASE_URL = 'https://www.vulnhub.com'
 TIMELINE_URL = 'https://www.vulnhub.com/timeline/'
