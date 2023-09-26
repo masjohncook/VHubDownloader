@@ -24,7 +24,7 @@ Searching for EXPLOIT-EXERCISES MAINSEQUENCE (V1)...
 /entry/exploit-exercises-mainsequence-v1,64/
 The page link is https://www.vulnhub.com/entry/exploit-exercises-mainsequence-v1,64/
 --------------------------------
-Download link is https://download.vulnhub.com/exploitexercises/exploit-exercises-mainsequence-fabled-scorpion.iso
+Download link is https://download.vulnhub.com/exploitexercises/exploit-exercises-mainsequence-wild-amphibian.zip
 --------------------------------
 4
 Searching for LAMPSECURITY CTF8...
@@ -38,7 +38,7 @@ Searching for SKYTOWER 1...
 /entry/skytower-1,96/
 The page link is https://www.vulnhub.com/entry/skytower-1,96/
 --------------------------------
-Download link is /faq/#checksum
+Download link is https://download.vulnhub.com/skytower/SkyTower.zip
 --------------------------------
 6
 Searching for OWLNEST...
@@ -52,14 +52,14 @@ Searching for PEGASUS 1...
 /entry/pegasus-1,109/
 The page link is https://www.vulnhub.com/entry/pegasus-1,109/
 --------------------------------
-Download link is /faq/#checksum
+Download link is https://download.vulnhub.com/pegasus/pegasus.ova
 --------------------------------
 8
 Searching for ROP PRIMER 0.2...
 /entry/rop-primer-02,114/
 The page link is https://www.vulnhub.com/entry/rop-primer-02,114/
 --------------------------------
-Download link is /faq/#checksum
+Download link is https://download.vulnhub.com/rop-primer/rop-primer-v0.2.ova
 --------------------------------
 9
 Searching for LORD OF THE ROOT 1.0.1...
@@ -94,42 +94,42 @@ Searching for SKYDOG 1...
 /entry/skydog-2016-catch-me-if-you-can,166/
 The page link is https://www.vulnhub.com/entry/skydog-2016-catch-me-if-you-can,166/
 --------------------------------
-Download link is /faq/#checksum
+Download link is https://download.vulnhub.com/skydog/SkyDogConCTF2016VBoxV10.ova
 --------------------------------
 14
 Searching for SICKOS 1.1...
 /entry/sickos-11,132/
 The page link is https://www.vulnhub.com/entry/sickos-11,132/
 --------------------------------
-Download link is /faq/#checksum
+Download link is https://download.vulnhub.com/sickos/sick0s1.1.7z
 --------------------------------
 15
 Searching for DROOPY V0.2...
 /entry/droopy-v02,143/
 The page link is https://www.vulnhub.com/entry/droopy-v02,143/
 --------------------------------
-Download link is /faq/#checksum
+Download link is https://download.vulnhub.com/droopy/DroopyCTF.ova
 --------------------------------
 16
 Searching for GIBSON 0.2...
 /entry/gibson-02,146/
 The page link is https://www.vulnhub.com/entry/gibson-02,146/
 --------------------------------
-Download link is /faq/#checksum
+Download link is https://download.vulnhub.com/gibson/gibson.ova
 --------------------------------
 17
 Searching for SIDNEY 0.2...
 /entry/sidney-02,149/
 The page link is https://www.vulnhub.com/entry/sidney-02,149/
 --------------------------------
-Download link is /faq/#checksum
+Download link is https://download.vulnhub.com/sidney/Sidney0.2.ova
 --------------------------------
 18
 Searching for STAPLER 1...
 /entry/stapler-1,150/
 The page link is https://www.vulnhub.com/entry/stapler-1,150/
 --------------------------------
-Download link is /faq/#checksum
+Download link is https://download.vulnhub.com/stapler/Stapler.zip
 --------------------------------
 19
 Searching for BREACH 1...
@@ -143,14 +143,14 @@ Searching for VIOLATOR 1...
 /entry/violator-1,153/
 The page link is https://www.vulnhub.com/entry/violator-1,153/
 --------------------------------
-Download link is /faq/#checksum
+Download link is https://download.vulnhub.com/violator/violator.ova
 --------------------------------
 21
 Searching for THE NECROMANCER 1...
 /entry/the-necromancer-1,154/
 The page link is https://www.vulnhub.com/entry/the-necromancer-1,154/
 --------------------------------
-Download link is /faq/#checksum
+Download link is https://download.vulnhub.com/necromancer/necromancer.ova
 --------------------------------
 22
 Searching for PWNLAB INIT...
@@ -164,21 +164,21 @@ Searching for BREACH 2.1...
 /entry/breach-21,159/
 The page link is https://www.vulnhub.com/entry/breach-21,159/
 --------------------------------
-Download link is /faq/#checksum
+Download link is https://download.vulnhub.com/breach/Breach-2_final2.1.zip
 --------------------------------
 24
 Searching for TEUCHTER 0.3...
 /entry/teuchter-03,163/
 The page link is https://www.vulnhub.com/entry/teuchter-03,163/
 --------------------------------
-Download link is /faq/#checksum
+Download link is https://download.vulnhub.com/teuchter/Teuchter_0.3.ova
 --------------------------------
 25
 Searching for SKYDOG 2016 - CATCH ME IF YOU CAN...
 /entry/skydog-2016-catch-me-if-you-can,166/
 The page link is https://www.vulnhub.com/entry/skydog-2016-catch-me-if-you-can,166/
 --------------------------------
-Download link is /faq/#checksum
+Download link is https://download.vulnhub.com/skydog/SkyDogConCTF2016VBoxV10.ova
 --------------------------------
 26
 Searching for HACKDAY ALBANIA...
@@ -199,7 +199,7 @@ Searching for USV 2016 (V1.0.1)...
 /entry/usv-2016-v101,175/
 The page link is https://www.vulnhub.com/entry/usv-2016-v101,175/
 --------------------------------
-Download link is /faq/#checksum
+Download link is https://download.vulnhub.com/usv-2016/USV-CTF101.ova
 --------------------------------
 29
 Searching for WALLABY'S...
@@ -213,7 +213,7 @@ Searching for BREACH 3.0.1...
 /entry/breach-301,177/
 The page link is https://www.vulnhub.com/entry/breach-301,177/
 --------------------------------
-Download link is /faq/#checksum
+Download link is https://download.vulnhub.com/breach/Breach-3.0.1.zip
 --------------------------------
 31
 Searching for DEFENCE SPACE CTF 2017...
@@ -227,21 +227,21 @@ Searching for QUAOAR...
 /entry/hackfest2016-orcus,182/
 The page link is https://www.vulnhub.com/entry/hackfest2016-orcus,182/
 --------------------------------
-Download link is /faq/#checksum
+Download link is https://download.vulnhub.com/hackfest2016/Orcus.ova
 --------------------------------
 33
 Searching for SEDNA...
 /entry/hackfest2016-orcus,182/
 The page link is https://www.vulnhub.com/entry/hackfest2016-orcus,182/
 --------------------------------
-Download link is /faq/#checksum
+Download link is https://download.vulnhub.com/hackfest2016/Orcus.ova
 --------------------------------
 34
 Searching for ORCUS...
 /entry/hackfest2016-orcus,182/
 The page link is https://www.vulnhub.com/entry/hackfest2016-orcus,182/
 --------------------------------
-Download link is /faq/#checksum
+Download link is https://download.vulnhub.com/hackfest2016/Orcus.ova
 --------------------------------
 35
 Searching for EW_SKUZZY...
@@ -255,7 +255,7 @@ Searching for ANALOUGEPOND...
 /entry/analougepond-1,185/
 The page link is https://www.vulnhub.com/entry/analougepond-1,185/
 --------------------------------
-Download link is /faq/#checksum
+Download link is https://download.vulnhub.com/analougepond/analoguepond-0.2b.ova
 --------------------------------
 37
 Searching for DONKEYDOCKER...
@@ -321,7 +321,7 @@ The page link is https://www.vulnhub.com/entry/g0rmint-1,214/
 Download link is https://download.vulnhub.com/g0rmint/g0rmint.zip
 --------------------------------
 46
-Searching for HOMELESS 1...
+Searching for HOMELESS...
 /entry/homeless-1,215/
 The page link is https://www.vulnhub.com/entry/homeless-1,215/
 --------------------------------
@@ -332,7 +332,7 @@ Searching for USV 2017...
 /entry/usv-2017,219/
 The page link is https://www.vulnhub.com/entry/usv-2017,219/
 --------------------------------
-Download link is /faq/#checksum
+Download link is https://download.vulnhub.com/usv-2017/ctf-usv_2017_qualifications.ova
 --------------------------------
 48
 Searching for JIS-CTF VULNUPLOAD...
@@ -370,4 +370,25 @@ The page link is https://www.vulnhub.com/entry/temple-of-doom-1,243/
 Download link is https://download.vulnhub.com/templeofdoom/temple-of-DOOM-v1.ova
 --------------------------------
 53
-Searching for WINTERMUTE 1...
+Searching for WINTERMUTE...
+/entry/wintermute-1,239/
+The page link is https://www.vulnhub.com/entry/wintermute-1,239/
+--------------------------------
+Download link is https://download.vulnhub.com/wintermute/Wintermute-v1.zip
+--------------------------------
+54
+Searching for BSIDESTLV 2018 CTF...
+/entry/bsidestlv-2018-ctf,250/
+The page link is https://www.vulnhub.com/entry/bsidestlv-2018-ctf,250/
+--------------------------------
+Download link is https://download.vulnhub.com/bsidestlv2018/BSidesTLV-2018-CTF.ova
+--------------------------------
+55
+Searching for CH4INRULZ...
+/entry/ch4inrulz-101,247/
+The page link is https://www.vulnhub.com/entry/ch4inrulz-101,247/
+--------------------------------
+Download link is https://download.vulnhub.com/ch4inrulz/CH4INRULZ_v1.0.1.ova
+--------------------------------
+56
+Searching for W34KN3SS 1...

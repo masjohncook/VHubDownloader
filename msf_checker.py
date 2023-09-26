@@ -49,8 +49,9 @@ def main():
         number += 1
     
     print(result)
-    # with open(result.json, 'w') as f:
-    #     json.dump(result, f, indent=4)
+    print(len(result))
+    # with open(result.json, 'w') as r:
+    #     json.dump(result, r, indent=4)
         
 
 if __name__ == '__main__':
