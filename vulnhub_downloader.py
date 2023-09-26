@@ -22,9 +22,13 @@ def get_download_link(vm_page_link):
     vm_page = requests.get(vm_page_link)
     soup = BeautifulSoup(vm_page.content, 'html.parser')
     div = soup.find('div', {'id': 'download'})
-    a_tag = div.find_all('a')
-    link_element = a_tag[2]['href']
-    if link_element:
+    for a in div.find_all('a', href=True):
+        if 'download.vulnhub' in a['href']:
+            link_element = a['href']
+
+    if not link_element:
+        pass
+    else:
         return link_element
     return None
 
