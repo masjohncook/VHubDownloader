@@ -5,8 +5,7 @@
 @CreatedTime : 2023/09/26 21:05
 
 
-This program has a function to __summary__
-
+This program has a function to automatically download Vulnhub VMs files based on the list of Vulnhub challenges names which listed on names.json
 '''
 
 

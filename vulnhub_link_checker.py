@@ -5,7 +5,7 @@
 @CreatedTime : 2023/09/26 21:06
 
 
-This program has a function to __summary__
+This program has a function to check the VM link and download link in the Vulnhub pages and report the results.
 
 '''
 

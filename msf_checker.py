@@ -5,7 +5,7 @@
 @CreatedTime : 2023/09/26 21:05
 
 
-This program has a function to __summary__
+This program has a function to check if a walkthrough link in link_list.json has Metasploit related terms in it.
 
 '''
 

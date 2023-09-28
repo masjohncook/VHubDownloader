@@ -5,7 +5,7 @@
 @CreatedTime : 2023/09/26 21:06
 
 
-This program has a function to __summary__
+This program has a function to listed all the VM name and link that published in the Vulnhub.com website
 
 '''
 
