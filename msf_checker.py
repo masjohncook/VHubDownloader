@@ -33,7 +33,7 @@ __email__ = 'mas.john.cook@gmail.com'
 __status__ = 'None'
 
 ############################################################################
-
+# Function      
 
 def check_page(link):
     response = requests.get(link)
